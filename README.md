@@ -1,2 +1,2 @@
 # intasymmRcppArma
-RcppArmadilllo files for main package intasymm
+RcppArmadilllo files required for main package intasymm
