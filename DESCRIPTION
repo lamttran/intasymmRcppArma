@@ -1,11 +1,11 @@
 Package: intasymmRcppArma
 Type: Package
-Title: What the package does (short line)
+Title: Accompanying Rcpp functions for the intasymm package
 Version: 1.0
 Date: 2021-06-25
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Lam Tran, Kevin He, Hui Jiang
+Maintainer: Lam Tran <lamtran@umich.edu>
+Description: These functions are required for proper functioning of the main intasymm package. 
 License: What license is it under?
 Imports: Rcpp (>= 1.0.6)
 LinkingTo: Rcpp, RcppArmadillo
