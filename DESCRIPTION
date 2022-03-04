@@ -9,3 +9,4 @@ Description: These functions are required for proper functioning of the main int
 License: What license is it under?
 Imports: Rcpp (>= 1.0.5)
 LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.1
